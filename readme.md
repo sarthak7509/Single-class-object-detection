@@ -6,7 +6,7 @@ This repository depicts the basics of single class object detection and also sho
 To run this repo follow the below steps.<br>
 1. Clone this repo using below code
 ```
-git clone 
+git clone https://github.com/sarthak7509/Single-class-object-detection.git
 ```
 2. Install the dependencies in the requirement.txt file using CMD.
 ```python
